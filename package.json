@@ -9,7 +9,7 @@
     "watch": "nodemon server.js"
   },
   "engines": {
-    "node": ">=14"
+    "node": ">=18"
   },
   "keywords": [],
   "author": "LM",
